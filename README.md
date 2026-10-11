@@ -9,4 +9,6 @@ So, take a look at everything that was planned for the mod to discover what was 
 # CREATOR'S NOTE:
 The assets from this mod CANNOT be used in any other mod! This includes the music, sprites, icons, code, and so on. Please show respect for my very first FNF mod project.
 
-Bye everyone, see you later! :D
+Bye everyone, see you later! :(
+
+![RIP FNSF](https://i.imgur.com/vBRCBmY.png)
